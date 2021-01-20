@@ -1,4 +1,4 @@
-# Netflix-clone
+# Instagram-clone
 ### [Live Site](https://instagramclonez.herokuapp.com/)
 
 ![Instagram](https://i.ibb.co/sKsdkCw/Capture13.png)
