@@ -1,3 +1,17 @@
+# Netflix-clone
+### [Live Site](https://instagramclonez.herokuapp.com/)
+
+![Instagram](https://i.ibb.co/sKsdkCw/Capture13.png)
+
+
+## Introduction
+This is a code repository for the corresponding Instagram . 
+
+In this repository, we're going to build a fully functional instagram application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebae authincation API fetching with axios and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
