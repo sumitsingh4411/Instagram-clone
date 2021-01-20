@@ -9,7 +9,7 @@ This is a code repository for the corresponding Instagram .
 
 In this repository, we're going to build a fully functional instagram application using reactjs. 
 
-While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebae authincation API fetching with axios and many more.
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebsae authincation API fetching with axios and many more.
 
 
 # Getting Started with Create React App
